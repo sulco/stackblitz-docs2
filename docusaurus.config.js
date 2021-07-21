@@ -132,7 +132,7 @@ module.exports = {
           // homePageId: 'introduction',
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://stackblitz.com/edit/stackblitz-docs?file="
+          editUrl: "https://stackblitz.com/edit/stackblitz-docs-zxctms?file="
         },
         blog: {
           showReadingTime: true,
