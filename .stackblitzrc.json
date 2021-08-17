@@ -1,4 +1,3 @@
 {
-  "runTurboOnBoot": true,
   "startCommand": "npm run start"
 }
